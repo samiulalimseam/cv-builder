@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Personal Information",
+      "id": "personal-information",
+      "description": "Add your personal information"
+    },
+    {
+      "name": "Education",
+      "id": "education",
+      "description": "Add your education information"
+    },
+    {
+      "name": "Experience",
+      "id": "experience",
+      "description": "Add your experience information"
+    },
+    {
+      "name": "Skills",
+      "id": "skills",
+      "description": "Add your skills information"
+    },
+    {
+      "name": "About",
+      "id": "about",
+      "description": "Add your about information"
+    },
+    {
+      "name": "Projects",
+      "id": "projects",
+      "description": "Add your project information"
+    }
+  ]

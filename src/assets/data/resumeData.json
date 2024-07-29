@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "data": [
+      {
+        "name": "Personal Information",
+        "id": "personal-information",
+        "description": "Add your personal information",
+        "skeleton" : {
+          "name": "Samiul Alim",
+          "highlightText": "Detail-oriented Full Stack Engineer dedicated to building high-quality products.",
+          "address": "Dhaka, Bangladesh"
+        }
+      },
+      {
+        "name": "About",
+        "id": "about",
+        "description": "Add your about information"
+      },
+      {
+        "name": "Education",
+        "id": "education",
+        "description": "Add your education information"
+      },
+      {
+        "name": "Experience",
+        "id": "experience",
+        "description": "Add your experience information"
+      },
+      {
+        "name": "Skills",
+        "id": "skills",
+        "description": "Add your skills information"
+      },
+      {
+        "name": "Projects",
+        "id": "projects",
+        "description": "Add your project information"
+      }
+    ]
+  }
+]
